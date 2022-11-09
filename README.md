@@ -8,7 +8,7 @@ Send mail to a friend!
 
 To run this application, you will need to run the SendMail.py file
 
-* First, you have to set up a specialised password on google for apps to access your email
+* First, you have to set up a specialised password on google for apps to access your gmail
 
 * You will have to input your email login details in the "login to mail" section along with the special password you have created
 
